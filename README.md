@@ -1,6 +1,6 @@
 # IoT-Based Indoor Air Quality Monitoring System with Real-Time AI Analysis, Air Purification, and Humidification
 
-![Project Banner/Hardware Image](documentation/Side view of Air Purifier and Air Humidifier.jpeg)
+![Project Banner/Hardware Image](./documentation/Side%20view%20of%20Air%20Purifier%20and%20Air%20Humidifier.jpeg)
 
 ## 📌 Overview
 DesIoT is a complete, edge-to-cloud IoT solution designed to actively monitor and manage indoor air quality. Rather than just acting as a passive sensor node, this system implements edge automation to control ventilation and humidity, while simultaneously logging time-series data to the cloud for further analysis.
